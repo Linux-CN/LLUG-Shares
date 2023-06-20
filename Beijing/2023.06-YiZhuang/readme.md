@@ -10,11 +10,11 @@
 
 ## 活动方
 
-主办方：[Linux 中国](https://linux.cn/)
+主办方：Linux 中国
 
-联合主办方：[龙蜥社区(OpenAnolis)](https://openanolis.cn)
+联合主办方：龙蜥社区(OpenAnolis)
 
-活动支持：[人民邮电出版社](https://www.ptpress.com.cn/)
+活动支持：人民邮电出版社
 
 
 
@@ -22,6 +22,7 @@
 
 | Topic              | 活动主题                                             | 主讲人         | PPT                                                          | 在线视频                                                     |
 | ------------------ | ---------------------------------------------------- | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 技术实践           | 使用人工智能驱动开源翻译组                           | 白宦成         | [PPT 下载](https://github.com/Linux-CN/LLUG-Shares/blob/main/Beijing/2023.06-YiZhuang/6.11%20%E7%99%BD%E5%AE%A6%E6%88%90-%E4%BD%BF%E7%94%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E5%BC%80%E6%BA%90%E7%BF%BB%E8%AF%91%E7%BB%84.pdf) | [Bilibili](https://www.bilibili.com/video/BV1cz4y1v71P/)     |
 | 社区发展           | 龙蜥社区介绍                                         | 张金利         | [PPT 下载](https://github.com/Linux-CN/LLUG-Shares/blob/main/Beijing/2023.06-YiZhuang/6.11%20%E5%BC%A0%E9%87%91%E5%88%A9-%E9%BE%99%E8%9C%A5%E7%A4%BE%E5%8C%BA%E4%BB%8B%E7%BB%8D.pdf) | [Bilibili](https://www.bilibili.com/video/BV1qo4y177DX)      |
 | 社区发展           | 机密计算与龙蜥社区云原生机密计算SIG                  | 张佳           | [PPT 下载](https://github.com/Linux-CN/LLUG-Shares/blob/main/Beijing/2023.06-YiZhuang/6.11%20%E5%BC%A0%E4%BD%B3-%E6%9C%BA%E5%AF%86%E8%AE%A1%E7%AE%97%E4%B8%8E%E9%BE%99%E8%9C%A5%E7%A4%BE%E5%8C%BA%E4%BA%91%E5%8E%9F%E7%94%9F%E6%9C%BA%E5%AF%86%E8%AE%A1%E7%AE%97SIG.pdf) |                                                              |
 | 社区发展           | 开发者服务平台devFree                                | 张永超         | [PPT 下载](https://github.com/Linux-CN/LLUG-Shares/blob/main/Beijing/2023.06-YiZhuang/6.11%20%E5%BC%A0%E6%B0%B8%E8%B6%85-%E5%BC%80%E5%8F%91%E8%80%85%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0devFree.pdf) |                                                              |
