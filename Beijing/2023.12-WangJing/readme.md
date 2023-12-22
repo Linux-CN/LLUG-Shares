@@ -24,4 +24,4 @@
 | 主题演讲	|《Developer Nation 程序员调查报告解读》|	 Ashley Au（远程） | 下载 | [Bilibili](https://www.bilibili.com/video/BV1De41167mh/) |	 	 
 | 闪电演讲	| 关于开源、编程的感悟|	丰雷 |	无 |	[Bilibili](https://www.bilibili.com/video/BV1KN4y187nF/) |
 | 闪电演讲	| 职场女性的思考|	宋贺 |	无	| [Bilibili](https://www.bilibili.com/video/BV1Si4y1a7cq/)  |
-| 闪电演讲	|《模型落地小见》|	承平	| 下载	| [Bilibili](https://www.bilibili.com/video/BV1Pe41187Lj/)  |
+| 闪电演讲	|《模型落地小见》|	承平	| [下载](https://fizuclq6u3i.feishu.cn/wiki/FPoTwadvoiko2RknaAxcabl7nqk)	| [Bilibili](https://www.bilibili.com/video/BV1Pe41187Lj/)  |
